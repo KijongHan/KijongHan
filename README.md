@@ -4,6 +4,7 @@ I'm Kijong and I'm from 🇰🇷/🇳🇿.
 👨‍💻 I like to build things<br/>
 👨‍🏫 I like learning new ideas<br/>
 🧪 I like experimenting with different technologies
+♥️ contributing to open source
 
 ## My socials 🔍
 Lets connect in other places!
