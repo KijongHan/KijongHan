@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Kijong and I'm from 🇰🇷/🇳🇿. 
+I'm Thomas, based in 🇳🇿
 
 👨‍💻 I like to build things<br/>
 👨‍🏫 I like learning new ideas<br/>
